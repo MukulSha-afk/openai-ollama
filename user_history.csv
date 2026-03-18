@@ -1,0 +1,11 @@
+age,weight,goal,meal_time,food_name,goal_enc,meal_enc,food_enc
+25,70,Weight Loss,Lunch,Gun powder chutney,1.0,2.0,0.0
+25,70,Muscle Gain,Lunch,Gun powder chutney,0.0,2.0,0.0
+28,74,Muscle Gain,Lunch,Gun powder chutney,0.0,2.0,0.0
+28,74,Muscle Gain,Breakfast,Gun powder chutney,0.0,0.0,0.0
+28,74,Muscle Gain,Dinner,Gun powder chutney,0.0,1.0,0.0
+28,74,Weight Loss,Dinner,Gun powder chutney,1.0,1.0,0.0
+25,70,Weight Loss,Breakfast,Gun powder chutney,1.0,0.0,0.0
+25,70,Muscle Gain,Lunch,Gun powder chutney,0.0,2.0,0.0
+25,70,Muscle Gain,Lunch,Gun powder chutney,0.0,2.0,0.0
+25,50,Muscle Gain,Lunch,Gun powder chutney,,,
